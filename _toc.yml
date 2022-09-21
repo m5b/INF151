@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Assignments
+    chapters:
+      #- file: assignments/a0
+      #title: Assignment 0
+    - file: assignments/a1
+      title: Assignment 1
+    - file: assignments/a2
+      title: Assignment 2
+    - file: assignments/a3
+      title: Assignment 3
+    - file: assignments/a4
+      title: Assignment 4
+  - caption: Weekly Notes
+    chapters:
+      - file: notes/wk1
+        title: Week 1 Notes
