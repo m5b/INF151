@@ -17,6 +17,10 @@ From the catalog:
 
 In practice, every instructor takes a slightly different bend to these topics. For this course, we will cover theoretical and practical aspects of project management. Topics include project integration management, organizational theory, group behavior, project management skills such as scope, time, and cost management, criteria for project success and reasons for failure, human resource management of individuals and teams, and communication. The class will work in teams to accomplish a real project utilizing the skills of project management.
 
+`````{admonition} Attention
+:class: warning
+The following sections are still in progress, but will be complete before our first class.
+`````
 ### Course Content
 
 #### Assignments
