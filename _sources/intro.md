@@ -15,7 +15,7 @@ From the catalog:
 
 > [INF 151] Introduces theoretical and practical aspects of project management. Topics include organizational theory, group behavior, project management skills, case studies, personal and group productivity tools, management of distributed work, stakeholders, consultants, and knowledge management. Students do a project exercise.
 
-In practice, every instructor takes a slightly different bend to these topics. I focus on covering modern technologies for web and mobile development and how device capabilities can impact interface design and software architecture.
+In practice, every instructor takes a slightly different bend to these topics. For this course, we will cover theoretical and practical aspects of project management. Topics include project integration management, organizational theory, group behavior, project management skills such as scope, time, and cost management, criteria for project success and reasons for failure, human resource management of individuals and teams, and communication. The class will work in teams to accomplish a real project utilizing the skills of project management.
 
 ### Course Content
 
