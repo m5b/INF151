@@ -24,8 +24,56 @@ The following sections are still in progress, but will be complete before our fi
 ### Course Content
 
 #### Assignments
+
+There will be a total of 8 assignments this quarter. Each assignment will be completed and submitted as a group. Individual scores for assignments will be adjusted as necessary if the course staff determines that a group member did not pull their weight on a particular assignment.
+
+Assignments will build upon each other as the quarter progresses, culminating in a final project and presentation.
+
+##### Assignment Summary (% of grade)
+Assignment 1 (1)
+: Meet your team, setup your tools, and create a Communication Covenant
+
+Assignment 2 (2)
+: Create and analyze a Gantt Chart
+ 
+Assignment 3 (3)
+: Get to know your team and write your project description
+
+Assignment 4 (5)
+: Write a business case for your project
+
+Assignment 5 (6)
+: Identify project scope and work requirements
+
+Assignment 6 (4)
+: Create a project schedule in Gantt format
+
+Assignment 7 (4)
+: Identify project costs and risks
+
+Assignment 8 (10)
+: Final project report
+
 #### Participation
+
+
+
 #### Exams
+
+Your understanding of the topics covered throughout this quarter will be evaluated through examinations. There will be a live quiz in nearly every class. Quizzes will be derived from the readings due for class. Quizzes will be timed and instructor paced. You will be allowed to use course materials during the quiz.
+
+There will also be a midterm and final exam. The final exam is cumulative and will test on all material covered in class.
+
+#### Exam Summary (% of grade)
+
+Quizzes (10)
+: Conducted during each live class. The only way to take quiz is to attend class. Quiz completion will also contribute to your attendance score.
+
+Midterm (20)
+: Format will be announced in class
+
+Final (25)
+: Format will be announced in class
 
 #### Quarter at a Glance
 
