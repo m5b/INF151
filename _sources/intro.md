@@ -62,7 +62,7 @@ We realize that there will be a variety of circumstances that prevent you from a
 
 ##### Team Participation
 
-Participation in the project is essential.  Team success depends on everyone in the team giving it their best. We will be checking your team participation through your work in Google docs, and other means.  37% of your grade is based on group work. This means attending meetings, communicating between meetings, and working on and contributing to the project. If you do not participate and your team colleagues do the work for you, then this means you are what is called a free rider (benefiting from others' work). Therefore, if it turns out that you have not participated sufficiently in your team project, your grade will be lowered. Be a team player.
+Participation in the project is essential.  Team success depends on everyone in the team giving it their best. We will be checking your team participation through your work in Google docs, and other means.  A significant portion of your grade is based on group work. This means attending meetings, communicating between meetings, and working on and contributing to the project. If you do not participate and your team colleagues do the work for you, then this means you are what is called a free rider (benefiting from others' work). Therefore, if it turns out that you have not participated sufficiently in your team project, your grade will be lowered. Be a team player.
 
 
 #### Exams
