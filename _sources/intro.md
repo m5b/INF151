@@ -17,10 +17,6 @@ From the catalog:
 
 In practice, every instructor takes a slightly different bend to these topics. For this course, we will cover theoretical and practical aspects of project management. Topics include project integration management, organizational theory, group behavior, project management skills such as scope, time, and cost management, criteria for project success and reasons for failure, human resource management of individuals and teams, and communication. The class will work in teams to accomplish a real project utilizing the skills of project management.
 
-`````{admonition} Attention
-:class: warning
-The following sections are still in progress, but will be complete before our first class.
-`````
 ### Course Content
 
 #### Assignments
@@ -63,7 +59,6 @@ We realize that there will be a variety of circumstances that prevent you from a
 ##### Team Participation
 
 Participation in the project is essential.  Team success depends on everyone in the team giving it their best. We will be checking your team participation through your work in Google docs, and other means.  A significant portion of your grade is based on group work. This means attending meetings, communicating between meetings, and working on and contributing to the project. If you do not participate and your team colleagues do the work for you, then this means you are what is called a free rider (benefiting from others' work). Therefore, if it turns out that you have not participated sufficiently in your team project, your grade will be lowered. Be a team player.
-
 
 #### Exams
 
