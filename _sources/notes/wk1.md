@@ -26,7 +26,7 @@ For most lectures I will not embed here or make them available to the public. I 
 
 Lecture Information
 : [Recording](https://uci.yuja.com/V/Video?v=6025905&node=26911369&a=1725520105&autoplay=1)
-: [Slides](../resources/INF151_Week_0_Introduction_to_Project_Management.pdf)
+: <a href="../resources/INF151_Week_0_Introduction_to_Project_Management.pdf">Slides</a>
 
 ## Tuesday
 
