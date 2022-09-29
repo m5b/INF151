@@ -36,7 +36,9 @@ Readings
 : [Schwalbe Chapter 1](https://canvas.eee.uci.edu/courses/49168/files/folder/Readings) 
 
 Lecture Recording
-: Posts on Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6049735&node=27040442&a=1624863831&autoplay=1)
+: <a href="../resources/INF_151_Week_1_Tue_Project_Management.pdf">Slides</a>
+
 
 ## Thursday
 
