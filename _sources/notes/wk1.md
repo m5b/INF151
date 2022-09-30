@@ -43,6 +43,6 @@ Lecture Recording
 ## Thursday
 
 Lecture Recording
-: Posts on Friday
+: [Lecture](https://uci.yuja.com/V/Video?v=6072188&node=27109335&a=177818622&autoplay=1)
 
 
