@@ -1,5 +1,9 @@
 
-# Week 1
+# Week 1 Notes
+
+```{note}
+Keep an eye weekly pages as they might be updated throughout the week.
+```
 
 Welcome to week 1! Since we are just getting started your notes content is pretty light right now. But remember, I will be updating the weekly notes page as the week progresses. Check back at least once or twice each week (Monday's and Wednesday's are probably the best time).
 
