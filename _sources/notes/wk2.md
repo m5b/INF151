@@ -27,7 +27,7 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: Released on Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6104007&node=27242832&a=398163933&autoplay=1)
 : <a href="../resources/INF_151_Week_2_Tue.pdf">Slides</a>
 
 
