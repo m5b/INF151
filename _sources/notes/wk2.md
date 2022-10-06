@@ -33,7 +33,8 @@ Lecture Recording
 
 ## Thursday
 
-Lecture Recording
-: Released on Friday
+```{note}
+Professor out sick. Meet with teams, work on business case
+```
 
 
