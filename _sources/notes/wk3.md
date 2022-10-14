@@ -29,6 +29,7 @@ Lecture Recording
 
 ## Thursday
 
-Materials will drop on 10/14
-
+Lecture Recording
+: [Lecture](https://uci.yuja.com/V/Video?v=6160806&node=27446527&a=67967650&autoplay=1)
+: <a href="../resources/INF151_Week_3_Thu_Integration_Management.pdf">Slides</a>
 
