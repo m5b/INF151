@@ -28,10 +28,12 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: Posts on Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6185484&node=27571186&a=2136744290&autoplay=1)
+: <a href="../resources/INF151_Week_4_Tu_Scope_Management.pdf">Slides</a>
 
 ## Thursday
 
 Lecture Recording
-: Posts on Friday
+: [Lecture](https://uci.yuja.com/V/Video?v=6199067&node=27630895&a=1243604259&autoplay=1)
+: <a href="../resources/INF151_Week_4_Thu_Schedule_Management.pdf">Slides</a>
 
