@@ -1,5 +1,5 @@
 
-# Week 4 Notes
+# Week 5 Notes
 
 ```{note}
 Keep an eye weekly pages as they might be updated throughout the week.
@@ -7,7 +7,12 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 ## Announcements
 
-No announcements
+Midterm will be held in class Thursday, 11/03. A brief review can be found in the Week 4 Thursday Lecture recording.
+
+Quiz Results through week 5
+: <a href="../resources/Quiz_Week_2_Tuesday.pdf">Quiz Results Week 2 Tuesday</a>
+: <a href="../resources/Quiz_Week_3_Thursday.pdf">Quiz Results Week 3 Thursday</a>
+: <a href="../resources/Quiz_Week_4_Tuesday.pdf">Quiz Results Week 4 Tuesday</a>
 
 ## Todos
 
