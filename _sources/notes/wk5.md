@@ -29,7 +29,8 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: Posts on Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6223381&node=27716991&a=1340389990&autoplay=1)
+: <a href="../resources/INF_151_Week_5_Tu_Cost_Management.pdf">Slides</a>
 
 ## Thursday
 
