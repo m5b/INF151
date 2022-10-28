@@ -35,5 +35,6 @@ Lecture Recording
 ## Thursday
 
 Lecture Recording
-: Posts on Friday
+: [Lecture](https://uci.yuja.com/V/Video?v=6236370&node=27762724&a=585143646&autoplay=1)
+: <a href="../resources/INF151_Week_5_Thu_Quality_Management.pdf">Slides</a>
 
