@@ -13,6 +13,8 @@ Quiz Results through week 5
 : <a href="../resources/Quiz_Week_2_Tuesday.pdf">Quiz Results Week 2 Tuesday</a>
 : <a href="../resources/Quiz_Week_3_Thursday.pdf">Quiz Results Week 3 Thursday</a>
 : <a href="../resources/Quiz_Week_4_Tuesday.pdf">Quiz Results Week 4 Tuesday</a>
+: <a href="../resources/Quiz_Week_5_Tuesday.pdf">Quiz Results Week 5 Tuesday</a>
+: <a href="../resources/Quiz_Week_5_Thursday.pdf">Quiz Results Week 5 Thursday</a>
 
 ## Todos
 
