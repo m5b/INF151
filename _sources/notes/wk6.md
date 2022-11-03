@@ -26,7 +26,8 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: Will post Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6263585&node=27899605&a=1636798372&autoplay=1)
+: A minimal slide deck was used for class with no new information. Please review video.
 
 ## Thursday
 
