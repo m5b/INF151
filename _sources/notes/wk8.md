@@ -7,7 +7,10 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 ## Announcements
 
-Midterms are currently being graded. We are expecting to have everything completed by end of day Tuesday to early Wednesday.
+* Midterms are currently being graded. We are expecting to have everything completed by end of day Tuesday to early Wednesday.
+* Midterms have been graded. Please use gradescope for any grade inquiries. I will review and respond this Friday.
+* Class on Thursday will be async, you do not need to attend class in person.
+* In lieu of class attendance, you are required to complete a short group activity. See my announcement on Zulip or discussion of the activity prompt at the end of Tuesday's lecture recording.
 
 ## Todos
 
@@ -23,9 +26,8 @@ Readings
 
 ## Tuesday
 
-Lecture Recording
-
-Relased on Wednesday
+: [Lecture](https://uci.yuja.com/V/Video?v=6337847&node=28173726&a=1235971628&autoplay=1)
+: <a href="../resources/INF151_Week_8_Tu_People_Management_Diversity.pdf">Slides</a>
 
 ## Thursday
 
