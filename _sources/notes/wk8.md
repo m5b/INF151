@@ -24,13 +24,13 @@ Readings
 : <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584732">Diverse Teams Feel Less Comfortable — and That’s Why They Perform Better</a> 
 : <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584734">Key Stages of Team Development</a> 
 
+
 ## Tuesday
 
+Lecture Recording
 : [Lecture](https://uci.yuja.com/V/Video?v=6337847&node=28173726&a=1235971628&autoplay=1)
 : <a href="../resources/INF151_Week_8_Tu_People_Management_Diversity.pdf">Slides</a>
 
 ## Thursday
 
-Lecture Recording
-
-Relased on Friday 
+No class
