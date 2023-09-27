@@ -23,28 +23,28 @@ In practice, every instructor takes a slightly different bend to these topics. F
 
 There will be a total of 8 assignments this quarter. Each assignment will be completed and submitted as a group. Individual scores for assignments will be adjusted as necessary if the course staff determines that a group member did not pull their weight on a particular assignment.
 
-Assignments will build upon each other as the quarter progresses, culminating in a final project and presentation.
+Assignments will build upon each other as the quarter progresses, culminating in a final project with presentations spread throughout the quarter.
 
 ##### Assignment Summary (% of grade)
 Assignment 1 (1)
 : Meet your team, setup your tools, and create a Communication Covenant
 
 Assignment 2 (2)
-: Create and analyze a Gantt Chart
+: Description of your planned work for the quarter, cost estimates, and team member roles
  
 Assignment 3 (3)
 : Get to know your team and write your project description
 
-Assignment 4 (5)
+Assignment 4 (6)
 : Write a business case for your project
 
 Assignment 5 (6)
 : Identify project scope and work requirements
 
-Assignment 6 (4)
+Assignment 6 (6)
 : Create a project schedule in Gantt format
 
-Assignment 7 (4)
+Assignment 7 (6)
 : Identify project costs and risks
 
 Assignment 8 (10)
@@ -74,10 +74,14 @@ Quizzes (10)
 Midterm (20)
 : Format will be announced in class
 
-Final (25)
+Final (20)
 : Format will be announced in class
 
 #### Quarter at a Glance
+
+```{note}
+The following schedule is tentative. Readings and topics may change. You will be notified in advance of any changes.
+```
 
 Week 1
 : Course Introduction
