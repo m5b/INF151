@@ -24,14 +24,18 @@ Our first class on 9/28 (technically week 0) is more or less an overview and int
 For most lectures I will not embed here or make them available to the public. I am going to do this for the first few classes until everyone waiting for access to the course is resolved.
 ```
 
+Lecture Recording
+: [Lecture Recording](https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing)
+: <a href="https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing">Slides</a>
+
 ## Weekly Readings
 
 Readings
 : [Schwalbe Chapter 1](https://canvas.eee.uci.edu/courses/56031/files/folder/Readings)
 
-## Thursday 
+## Week 1 Tuesday 
 
 Lecture Recording
-: Lecture recording posted day after class
-: <a href="https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing">Slides</a>
+: [Lecture Recording]()
+: <a href="https://docs.google.com/presentation/d/14yjHZCh-49uzhCEY0smLiXAL_I1KHrqyDVaTfs1KGY8/edit?usp=sharing">Slides</a>
 
