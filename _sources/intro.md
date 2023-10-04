@@ -92,22 +92,21 @@ Week 2
 : Selecting a Project
 : Gantt Charts
 : Readings: Schwalbe Ch. 2 & 3
-: Quiz 1 & 2
 
 Week 3
 : Project Integration Management
 : Readings: Schwalbe Ch. 4
-: Quiz 3 & 4
+: Quiz 1 & 2
 
 Week 4
 : Project Team Management
 : Readings: Schwalbe Ch. 5 & 6, additional readings
-: Quiz 5 & 6
+: Quiz 3 & 4
 
 Week 5
 : Project Time Management
 : Readings: Schwalbe Ch. 7 & 8
-: Quiz 7 & 8
+: Quiz 5 & 6
 
 Week 6
 : The Differences of Individuals
@@ -117,17 +116,17 @@ Week 6
 Week 7
 : Managing Teams
 : Readings: Additional readings
-: Quiz 9
+: Quiz 7 & 8
 
 Week 8
 : Human Resource Management
 : Readings: Schwalbe Ch. 9, additional readings
-: Quiz 10
+: No classes
 
 Week 9
 : Communications Management
 : Readings: Schwalbe Ch. 10, additional readings
-: No Classes
+: Quiz 9 & 10
 
 Week 10
 : Final Presentations
