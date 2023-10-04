@@ -25,7 +25,7 @@ For most lectures I will not embed here or make them available to the public. I 
 ```
 
 Lecture Recording
-: [Lecture Recording](https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing)
+: [Lecture Recording]()
 : <a href="https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing">Slides</a>
 
 ## Weekly Readings
