@@ -36,3 +36,9 @@ Lecture Recording
 : [Lecture Recording](https://uci.yuja.com/V/Video?v=8816939&node=38128106&a=47818177&autoplay=1)
 : <a href="https://docs.google.com/presentation/d/14yjHZCh-49uzhCEY0smLiXAL_I1KHrqyDVaTfs1KGY8/edit?usp=sharing">Slides</a>
 
+## Week 1 Thursday
+
+Lecture Recording
+: [Lecture Recording]()
+: <a href="https://docs.google.com/presentation/d/1qOBhcJ9V7dixy12kn-_SNp4nArpGYYFCwnC5WnidjOo/edit?usp=sharing">Slides</a>
+
