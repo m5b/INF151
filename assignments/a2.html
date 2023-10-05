@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>A2: The Gantt Chart &#8212; INF 151 Fall 2023</title>
+    <title>A2: Project Summary &#8212; INF 151 Fall 2023</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,6 +52,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="A3: Team Project" href="a3.html" />
+    <link rel="prev" title="A1: Preparing for a Group Project" href="a1.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -116,10 +118,20 @@ const thebe_selector_output = ".output, .cell_output"
   Assignments
  </span>
 </p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="a1.html">
    Assignment 1
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Assignment 2
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="a3.html">
+   Assignment 3
   </a>
  </li>
 </ul>
@@ -320,23 +332,6 @@ title="Print to PDF"
   <a class="reference internal nav-link" href="#assignment-details">
    Assignment Details
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#part-1-assembling-your-gantt-chart">
-     Part 1: Assembling your Gantt Chart
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#part-2-analyzing-your-gantt-chart">
-     Part 2: Analyzing your Gantt Chart
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#selecting-a-gantt-chart-tool">
-     Selecting a Gantt Chart Tool
-    </a>
-   </li>
-  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#submitting">
@@ -357,7 +352,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>A2: The Gantt Chart</h1>
+                <h1>A2: Project Summary</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -376,23 +371,6 @@ title="Print to PDF"
   <a class="reference internal nav-link" href="#assignment-details">
    Assignment Details
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#part-1-assembling-your-gantt-chart">
-     Part 1: Assembling your Gantt Chart
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#part-2-analyzing-your-gantt-chart">
-     Part 2: Analyzing your Gantt Chart
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#selecting-a-gantt-chart-tool">
-     Selecting a Gantt Chart Tool
-    </a>
-   </li>
-  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#submitting">
@@ -414,53 +392,34 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="a2-the-gantt-chart">
-<h1>A2: The Gantt Chart<a class="headerlink" href="#a2-the-gantt-chart" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="a2-project-summary">
+<h1>A2: Project Summary<a class="headerlink" href="#a2-project-summary" title="Permalink to this headline">#</a></h1>
 <section id="assignment-introduction">
 <h2>Assignment Introduction<a class="headerlink" href="#assignment-introduction" title="Permalink to this headline">#</a></h2>
-<p>The Gantt chart is a powerful task management and visualization tool for managing complex projects. The flexibility of the Gantt format makes it useful for practically any type of project. This assignment will provide you with the opportunity to learn how to setup, maintain, and analyze tasks in the Gantt format.</p>
+<p>Now that you have formed a project team and decided what type of project you want to pursue, it’s time to formalize your organizational goals and structure. For this assignment you will be documenting the purpose of your organization, formulating the cost structure you will need to operate, and assigning roles to all team members.</p>
 </section>
 <section id="assignment-details">
 <h2>Assignment Details<a class="headerlink" href="#assignment-details" title="Permalink to this headline">#</a></h2>
-<p>To gain some preliminary familiarity with the Gantt format, you will create a chart using your class schedule for the quarter as a source of input data. Although data produced from the typical college class does not encompass <strong>all</strong> of the capabilities that Gantt supports, it provide enough for learning about the basic features.</p>
-<section id="part-1-assembling-your-gantt-chart">
-<h3>Part 1: Assembling your Gantt Chart<a class="headerlink" href="#part-1-assembling-your-gantt-chart" title="Permalink to this headline">#</a></h3>
-<p>All of your classes will have at least one of the following types of data:</p>
-<ul class="simple">
-<li><p>Assignment</p></li>
-<li><p>Presentation</p></li>
-<li><p>Project</p></li>
-<li><p>Quiz</p></li>
-<li><p>Midterm Exam</p></li>
-<li><p>Final Exam</p></li>
-<li><p>Extra Credit</p></li>
-</ul>
-<p>You will notice that the primary difference between each data type is temporal. Some types (assignment, project, and extra credit) will have a start and end date while the rest are constrained to a single date and time. Types with a start and end data should be categorized as <strong><code class="docutils literal notranslate"><span class="pre">tasks</span></code></strong>, while data types that occur on a single data and time should be categorized as <strong><code class="docutils literal notranslate"><span class="pre">milestones</span></code></strong>.</p>
-<p>Start by organizing the deliverables for this class using your desired tool (see below) as individual tasks. Keep each deliverable grouped by type. So assignments should all be together, quizzes together, exams, and so on. Since you are obviously all in this class together each member of your group should be assigned as owners for each task.</p>
-<p>Once you have the deliverables for this class complete, you should each pick at least one (though adding all of your courses is encouraged) additional class that you are enrolled in this quarter and add it to the chart. If you don’t have a class with established deadlines for all deliverables, put in as many as you know. Every member of the group should add one class. If two or more members of your group share another class, then decide as a group which of you will use that class. The goal should be to avoid duplicate classes. In the unlikely chance that this is not possible, let your instructors know via a submission comment on Canvas.</p>
-</section>
-<section id="part-2-analyzing-your-gantt-chart">
-<h3>Part 2: Analyzing your Gantt Chart<a class="headerlink" href="#part-2-analyzing-your-gantt-chart" title="Permalink to this headline">#</a></h3>
-<p>Once your Gantt chart is populated with course data, you should start to see some patterns emerge. For example, you might find that some portion of your team have one or more deadlines for other classes in common. Or you might identify a common free time between courses that you can use to meet. So for part 2, spend some time individually analyzing the chart and write down some observations about what you find.</p>
-<p>As a group, create a new document in your group’s <strong><code class="docutils literal notranslate"><span class="pre">stage</span></code></strong> directory and name it <strong><code class="docutils literal notranslate"><span class="pre">TEAMNAME-assignment-2-ganttchart</span></code></strong>. Take a screenshot or two of your Gantt Chart and add it to the beginning of the document. Some of your charts might be quite lengthy, so do your best to ensure that the chart is readable in picture format. If you have to zoom in and divide the image into multiple pictures, then do so. Just ensure that a third party (your instructors) can read it without having to zoom in and out! If you decide to use a Gantt Chart extension for Google Sheets (see below) then you are welcome to submit a link to this document rather than create multiple screenshots.</p>
-<p>Each team member should then add their observations in a separate section using your individual names as headings. Individual observations should be roughly 1-2 paragraphs in length. When complete copy this file to the <strong><code class="docutils literal notranslate"><span class="pre">final</span></code></strong> directory for submission. Remember to ensure that your course instructors are assigned edit permissions on this document.</p>
-</section>
-<section id="selecting-a-gantt-chart-tool">
-<h3>Selecting a Gantt Chart Tool<a class="headerlink" href="#selecting-a-gantt-chart-tool" title="Permalink to this headline">#</a></h3>
-<p>There are many different tools available for creating Gantt Charts. Your textbook for this course comes with a trial version of Microsoft Project. If you use a computer that runs Windows, then you might prefer to experiment with this software. However, there are many other options available. We don’t particularly care which option you decide to use, as long as it supports creating charts that adhere to the Gantt specification.</p>
-<p>One easy and straightforward option is to use an extension for Google Sheets. There are several available in Google’s marketplace, but we have spent some time evaluating the extension linked below and found it to be perfectly suitable for the goals of this course.</p>
-<p><a class="reference external" href="https://workspace.google.com/u/2/marketplace/app/slick_gantt_project_management_chart/963640483752">Slick Gantt for Google Sheets</a></p>
-<p>If you know of or would like to recommend any others, feel free to share them on Zulip!</p>
-</section>
+<p>To get started, create a new document in the shared <strong><code class="docutils literal notranslate"><span class="pre">stage</span></code></strong> Google Drive folder that you created for Assignment 1. Create three sections according to the following format:</p>
+<dl class="simple myst">
+<dt>Project Description</dt><dd><p>Include a 1-2 paragraph description of the work you are planning to do for the quarter. If you are a startup you should describe in as much detail as possible the work you carry out. If you are a consultancy or an agency you should describe the type of work you specialize in performing. In all cases, <em>be specific</em>, do not simply list out one or two word descriptors (e.g., logo design or python programming), think about what makes your organization unique and incorporate that into your overall messaging.</p>
+</dd>
+<dt>Cost Estimates</dt><dd><p>Include a table that breaks down the amount of money you think it will take to complete your project. If you are a startup, you will need to consider the costs of internal labor, fixed costs, licenses, and external costs. If you are a consultancy or an agency, you should come up with some rates (hourly or project-based) for the different types of services you provide (e.g., Logo design, $175/hr).</p>
+</dd>
+<dt>Team Roles</dt><dd><p>Include a section that lists all the members of your organization and the roles they will play. Since everyone will take a turn at project manager, everyone should have another role.</p>
+</dd>
+<dd><p>Finally, indicate next to each team members name which weeks they will take on the role of project manager. For example: Mark Baldwin, Programmer (PM w3-5). In this example, Mark Baldwin has been identified as a programmer who will also be the project manager during weeks 3-5. The actual format is not important, just make it readable and easy to interpret.</p>
+</dd>
+</dl>
 </section>
 <section id="submitting">
 <h2>Submitting<a class="headerlink" href="#submitting" title="Permalink to this headline">#</a></h2>
-<p>Once you have completed both parts 1 and 2, submit a link to your Google doc to the Assignment 2 page on Canvas.</p>
+<p>Once you have completed all three sections, move your file to the <strong><code class="docutils literal notranslate"><span class="pre">final</span></code></strong> folder in your Google Drive and submit a link to the Google doc on the Assignment 2 page on Canvas.</p>
 <p>Ensure that <strong>all</strong> course staff have been added as members of your group directory <strong>and</strong> have edit permissions on your documents.</p>
 </section>
 <section id="grading">
 <h2>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">#</a></h2>
-<p>This assignment is worth 2 pts or 2 percent of your total grade. You must complete all requirements for this assignment accurately and on time to receive credit. No partial credit will given. Credit will be assigned to you as a group but removed on an individual basis for team memebrs who do not complete part 2.</p>
+<p>This assignment is worth 2 pts or 2 percent of your total grade. You must complete all requirements for this assignment accurately and on time to receive credit. No partial credit will given. Credit will be assigned to you as a group but removed on an individual basis for team members who do not complete part 2.</p>
 </section>
 </section>
 
@@ -491,6 +450,20 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="a1.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">A1: Preparing for a Group Project</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="a3.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">A3: Team Project</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
             </footer>
         </div>
