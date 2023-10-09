@@ -39,6 +39,6 @@ Lecture Recording
 ## Week 1 Thursday
 
 Lecture Recording
-: [Lecture Recording]()
+: [Lecture Recording](https://uci.yuja.com/V/Video?v=8832779&node=38189586&a=79736104&autoplay=1)
 : <a href="https://docs.google.com/presentation/d/1qOBhcJ9V7dixy12kn-_SNp4nArpGYYFCwnC5WnidjOo/edit?usp=sharing">Slides</a>
 
