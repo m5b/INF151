@@ -31,7 +31,6 @@ Lecture Recording
 : [Lecture Recording]()
 : [Slides]()
 
-
 ## Thursday
 
 Coming Soon!
