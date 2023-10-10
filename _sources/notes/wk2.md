@@ -29,7 +29,7 @@ Readings
 
 Lecture Recording
 : [Lecture Recording]()
-: [Slides]()
+: [Slides](https://docs.google.com/presentation/d/101gF30ns7CirHjOtSrKYVsFzMwjshdnAhWu-eMtTZNg/edit?usp=sharing)
 
 ## Thursday
 
