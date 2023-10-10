@@ -7,35 +7,33 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 Week 2 already? 
 
-This week you will be wrapping up your Gantt chart assignment and finalizing your team project description. If you haven't already, take a look at [Assignment 3](../assignments/a3.md). It is due this Thursday, so plan on finding some time to meet with your group over the next two days.
-
+This week you continue setting up your Gantt chart, finalizing your project description and roles, and securing your work for the quarter. If you haven't already, take a look at [Assignments 2](../assignments/a2.md) and [3](../assignments/a3.md). They are _both_ due this Friday, so plan on finding some time to meet with your group over the next three days to wrap these assignments.
 
 ## Announcements
 
-* I realize that some of the groups are getting kind of messy...we will reorg as needed on Thursday. If you are in a 3-person group, plan on either merging with another small group or disbanding to join a new group.
+* If you still do not have a group to work with _please come see me asap!_
+* In-class quizzes will start next week (Week 3)! So be sure to read the assigned materials so you are prepared.
+* Readings for this week can be found on Canvas using the link below. However, Schwalbe chapters 4 and beyond will require individual access to the course text. I will no longer be providing PDF's.
 
 ## Todos
 
-* Finish A2 (due Tuesday) and A3 (due Thursday)
+* Finish A2 and A3 (due Friday)
 * Start reading Schwable chapters 2 & 3
 
 ## Weekly Readings
 
 Readings
-: [Schwalbe Chapter 2 and 3](https://canvas.eee.uci.edu/courses/49168/files/folder/Readings) 
+: [Schwalbe Chapter 2 and 3](https://canvas.eee.uci.edu/courses/49168/files/folder/Readings)
 
 ## Tuesday
 
 Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6104007&node=27242832&a=398163933&autoplay=1)
-: <a href="../resources/INF_151_Week_2_Tue.pdf">Slides</a>
+: [Lecture Recording]()
+: [Slides]()
 
 
 ## Thursday
 
-```{note}
-Professor out sick. Meet with teams, work on business case
-```
-
+Coming Soon!
 
 
