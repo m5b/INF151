@@ -28,11 +28,11 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture Recording]()
+: [Lecture Recording](https://uci.yuja.com/V/Video?v=8861660&node=38302573&a=110002511&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/101gF30ns7CirHjOtSrKYVsFzMwjshdnAhWu-eMtTZNg/edit?usp=sharing)
 
 ## Thursday
 
-Coming Soon!
+: [Slides](https://docs.google.com/presentation/d/1gbo9hBBxQqWmt0LXDti71Xg23O-hwG12INTEgBJyVtI/edit?usp=sharing)
 
 
