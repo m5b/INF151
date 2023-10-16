@@ -21,8 +21,8 @@ Our first class on 9/28 (technically week 0) is more or less an overview and int
 
 ## Week 0 Thursday
 
-Lecture Recording
-: [Lecture Recording](https://uci.yuja.com/V/Video?v=8822648&node=38151694&a=94484402&autoplay=1)
+Lecture 
+: [Recording](https://uci.yuja.com/V/Video?v=8822648&node=38151694&a=94484402&autoplay=1)
 : <a href="https://docs.google.com/presentation/d/1I3cceFIiyRzkySLWFQQZ5Z055jpVto_5qk1LajsZqqk/edit?usp=sharing">Slides</a>
 
 ## Weekly Readings
@@ -32,13 +32,13 @@ Readings
 
 ## Week 1 Tuesday 
 
-Lecture Recording
-: [Lecture Recording](https://uci.yuja.com/V/Video?v=8816939&node=38128106&a=47818177&autoplay=1)
+Lecture 
+: [Recording](https://uci.yuja.com/V/Video?v=8816939&node=38128106&a=47818177&autoplay=1)
 : <a href="https://docs.google.com/presentation/d/14yjHZCh-49uzhCEY0smLiXAL_I1KHrqyDVaTfs1KGY8/edit?usp=sharing">Slides</a>
 
 ## Week 1 Thursday
 
-Lecture Recording
-: [Lecture Recording](https://uci.yuja.com/V/Video?v=8832779&node=38189586&a=79736104&autoplay=1)
+Lecture 
+: [Recording](https://uci.yuja.com/V/Video?v=8832779&node=38189586&a=79736104&autoplay=1)
 : <a href="https://docs.google.com/presentation/d/1qOBhcJ9V7dixy12kn-_SNp4nArpGYYFCwnC5WnidjOo/edit?usp=sharing">Slides</a>
 
