@@ -11,9 +11,9 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 ## Todos
 
-* Finish A4 (due Thursday) 
+* Finish A4 (due Friday) 
 * Start reading Schwable chapter 4
-* Start A5
+* Start A5 (Thursday)
 
 ## Weekly Readings
 
@@ -23,13 +23,10 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6144398&node=27391029&a=1633064763&autoplay=1)
-: <a href="../resources/INF151_Week_3_Tue_Managing_the_Project.pdf">Slides</a>
+: [Lecture]()
+: [Slides](https://docs.google.com/presentation/d/183d6z6IvV0okTeqPNwXN6nlwkVIYOsqZSil9v46IiHM/edit?usp=sharing)
 
 
 ## Thursday
 
-Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6160806&node=27446527&a=67967650&autoplay=1)
-: <a href="../resources/INF151_Week_3_Thu_Integration_Management.pdf">Slides</a>
-
+Coming Soon
