@@ -23,10 +23,10 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=8905664&node=38479203&a=106755361&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/183d6z6IvV0okTeqPNwXN6nlwkVIYOsqZSil9v46IiHM/edit?usp=sharing)
 
 
 ## Thursday
 
-Coming Soon
+No Class - Professor sick :(
