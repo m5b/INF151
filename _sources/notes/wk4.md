@@ -19,21 +19,18 @@ No announcements
 
 Readings
 : Review chapter 4, pages 162-170
-: Read chapter 5 for Tuesday
+: Read chapter 5
 : Start chapter 6
-: Read <a href="../resources/Olson and Olson How to make distance work work.pdf">How to Make Distance Work Work</a> for Thursday
-: Read <a href="../resources/Beranek et al. Management of Virtual Project Teams_ Guidelines for Team Leaders.pdf">Management of Virtual Project Teams: Guidelines for Team Leaders</a> for Thursday
 
 
 ## Tuesday
 
 Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6185484&node=27571186&a=2136744290&autoplay=1)
-: <a href="../resources/INF151_Week_4_Tu_Scope_Management.pdf">Slides</a>
+: [Lecture](https://docs.google.com/presentation/d/10eYQ_bZCl9KBIuNlWrheBBs8xivg016eTogpaas5X_A/edit?usp=sharing)
+
 
 ## Thursday
 
 Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6199067&node=27630895&a=1243604259&autoplay=1)
-: <a href="../resources/INF151_Week_4_Thu_Schedule_Management.pdf">Slides</a>
+: [Lecture]()
 
