@@ -35,4 +35,5 @@ Lecture Recording
 Lecture Recording
 : [Lecture]()
 : [Slides]()
-
+: [Activity 1 Slide Deck](https://docs.google.com/presentation/d/1nr2y9tP-5UYeaLapDgTzsQYeXWQj_e2GFXBqdFFOIdE/edit?usp=sharing)
+: [Activity 2 Slide Deck](https://docs.google.com/presentation/d/1_V0eKqv5C0HF1uTn4D2d42AwxMz6G4l-FWfUBTlcpeY/edit?usp=sharing)
