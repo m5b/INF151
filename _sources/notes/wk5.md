@@ -7,6 +7,10 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 ## Announcements
 
+Here are the quiz answer keys for the first four quizzes of the quarter.
+
+<a href="https://inf151.markbaldw.in/resources/INF151_F23_Midterm_Quizzes.zip">Quiz Answer Keys</a>
+
 
 ## Todos
 
@@ -23,9 +27,12 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture]()
-; [Slides](https://docs.google.com/presentation/d/1O5QuZ0309wGSfkidV9AA4IyEFpfsFL4sh_gUimEIqr8/edit?usp=sharing)
+: [Lecture](https://uci.yuja.com/V/Video?v=8991950&node=38825317&a=209229343&autoplay=1)
+: [Slides](https://docs.google.com/presentation/d/1O5QuZ0309wGSfkidV9AA4IyEFpfsFL4sh_gUimEIqr8/edit?usp=sharing)
 
 ## Thursday
 
+Lecture Recording
+: [Lecture](https://uci.yuja.com/V/Video?v=9006346&node=38878339&a=2583327&autoplay=1)
+: [Slides](https://docs.google.com/presentation/d/1fTmzGg23V4ZdmidF1tpa9UdeUHMtum5Hu7HW2Uo2jDs/edit?usp=sharing)
 
