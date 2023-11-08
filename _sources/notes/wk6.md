@@ -13,18 +13,18 @@ All quiz results through week 5 can be found in the Week 5 notes.
 
 ## Todos
 
-* Work on [Assignment 6](a6.md) (deadline moved to 11/3)
+* Work on [Assignment 7](a7.md) (deadline moved to 11/17)
 * Study for midterm
 
 ## Weekly Readings
 
-Readings
+No new readings for this week.
 
 ## Tuesday
 
 Lecture Recording
 : [Lecture]()
-: [Slides]()
+: [Slides](https://docs.google.com/presentation/d/1xnYxnniB7PpdsSOxkApbPHyVdWRXi8KljsRiV-5iLBY/edit?usp=sharing)
 
 ## Thursday
 
