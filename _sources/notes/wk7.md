@@ -7,21 +7,41 @@ Keep an eye weekly pages as they might be updated throughout the week.
 
 ## Announcements
 
+We start in-class project presentations this week! Remember to check the presentation order sheet to find out what day you present.  This week's presenters will be:
+
+Tuesday
+: Taupe Tier (PT 5)
+: Just lyn line - Design (PT 24)
+: Teamname (PT 21)
+: Elephant in the Room (PT 23)
+: Design Placeholder (PT 29) 
+
+Thursday
+: Hotdog Force (PT 60)
+: Content with anything (PT 69)
+: JourneyJot (PT 6)
+: 4 for 4 (PT 4)
+: CAN YOU DO IT IN ONE LINE (PT 10)
 
 ## Todos
 
 * Work on [Assignment 7](a7.md) 
 * Start planning for final project
 
+## Weekly Readings
+
+Readings
+: Finish reading chapter 8
+: Start reading chapter 9
+
 ## Tuesday
 
 Lecture Recording
-: [Lecture](https://uci.yuja.com/V/Video?v=6300419&node=28064047&a=2030773995&autoplay=1)
-: <a href="../resources/INF151_Week_7_Tu_People_Management.pdf">Slides</a>
+: [Lecture]()
+: [Slides]()
 
 ## Thursday
 
 Lecture Recording
-: [Final Project Overview](https://uci.yuja.com/V/Video?v=6312439&node=28099182&a=403134979&autoplay=1)
-: [Lecture](https://uci.yuja.com/V/Video?v=6312441&node=28099184&a=1093762810&autoplay=1)
-: <a href="../resources/INF151_Week_7_Thu_People_Management.pdf">Slides</a>
+: [Lecture]()
+: [Slides]()

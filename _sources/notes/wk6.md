@@ -23,7 +23,7 @@ No new readings for this week.
 ## Tuesday
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=9129387&node=39148077&a=183492598&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/1xnYxnniB7PpdsSOxkApbPHyVdWRXi8KljsRiV-5iLBY/edit?usp=sharing)
 
 ## Thursday
