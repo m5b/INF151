@@ -44,4 +44,4 @@ Lecture Recording
 
 Lecture Recording
 : [Lecture]()
-: [Slides]()
+: [Slides](https://docs.google.com/presentation/d/1ZmPS5ZJkRJnvAE3uUxS9IXflyPhqtD4q1cmn4ttcduI/edit?usp=sharing)
