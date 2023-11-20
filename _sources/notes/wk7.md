@@ -37,11 +37,11 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=9138528&node=39178179&a=53260270&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/11Z7fLwLh9_crwC_JDVub8C4-WJ898ypODMcJXR4e0VQ/edit?usp=sharing)
 
 ## Thursday
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=9152798&node=39228033&a=120619050&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/1ZmPS5ZJkRJnvAE3uUxS9IXflyPhqtD4q1cmn4ttcduI/edit?usp=sharing)
