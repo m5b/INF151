@@ -36,7 +36,7 @@ Readings
 ## Tuesday
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=9180711&node=39306927&a=194322748&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/1pSaSOweM4SkdSwDrN0xacVMPJNLWCNlC3MHyCxgK59I/edit?usp=sharing)
 
 ## Thursday
