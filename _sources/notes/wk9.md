@@ -19,12 +19,18 @@ This week's presenters are listed in the {ref}`tuesday` and {ref}`thursday` sect
 ## Weekly Readings
 
 Readings
+
+For Next Week
+: Schwalbe Chapter 10
+
+
+Finish Reading
 : <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584733">Why Diverse Teams are Smarter</a> 
 : <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584732">Diverse Teams Feel Less Comfortable — and That’s Why They Perform Better</a> 
 : <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584734">Key Stages of Team Development</a> 
 
-: Read <a href="../resources/Olson and Olson How to make distance work work.pdf">How to Make Distance Work Work</a> for Thursday
-: Read <a href="../resources/Beranek et al. Management of Virtual Project Teams_ Guidelines for Team Leaders.pdf">Management of Virtual Project Teams: Guidelines for Team Leaders</a> for Thursday
+: Read <a href="../resources/Olson and Olson How to make distance work work.pdf">How to Make Distance Work Work</a>
+: Read <a href="../resources/Beranek et al. Management of Virtual Project Teams_ Guidelines for Team Leaders.pdf">Management of Virtual Project Teams: Guidelines for Team Leaders</a> 
 
 (tuesday)=
 ## Tuesday
@@ -39,7 +45,7 @@ Tuesday's Presenters
 
 Lecture Recording
 : [Lecture]()
-: [Slides]()
+: [Slides](https://docs.google.com/presentation/d/1vkODqMAMOuSOyoj2V-_k4468zwjYx-XYfnt8doEIGXY/edit?usp=sharing)
 
 
 (thursday)=
