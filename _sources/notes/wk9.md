@@ -44,7 +44,7 @@ Tuesday's Presenters
 
 
 Lecture Recording
-: [Lecture]()
+: [Lecture](https://uci.yuja.com/V/Video?v=9210279&node=39440526&a=59721157&autoplay=1)
 : [Slides](https://docs.google.com/presentation/d/1vkODqMAMOuSOyoj2V-_k4468zwjYx-XYfnt8doEIGXY/edit?usp=sharing)
 
 
