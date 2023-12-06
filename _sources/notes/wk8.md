@@ -25,9 +25,9 @@ Tuesday
 ## Weekly Readings
 
 Readings
-: <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584733">Why Diverse Teams are Smarter</a> 
-: <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584732">Diverse Teams Feel Less Comfortable — and That’s Why They Perform Better</a> 
-: <a href="https://canvas.eee.uci.edu/courses/49168/files/folder/Readings?preview=20584734">Key Stages of Team Development</a> 
+: <a href="https://canvas.eee.uci.edu/courses/56031/files/folder/Readings?preview=23882420">Why Diverse Teams are Smarter</a> 
+: <a href="https://canvas.eee.uci.edu/courses/56031/files/folder/Readings?preview=23882419">Diverse Teams Feel Less Comfortable — and That’s Why They Perform Better</a> 
+: <a href="https://canvas.eee.uci.edu/courses/56031/files/folder/Readings?preview=23882417">Key Stages of Team Development</a> 
 
 : Read <a href="../resources/Olson and Olson How to make distance work work.pdf">How to Make Distance Work Work</a> for Thursday
 : Read <a href="../resources/Beranek et al. Management of Virtual Project Teams_ Guidelines for Team Leaders.pdf">Management of Virtual Project Teams: Guidelines for Team Leaders</a> for Thursday
